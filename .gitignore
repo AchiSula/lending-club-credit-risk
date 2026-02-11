@@ -1,0 +1,12 @@
+dataset/*.csv
+dataset/*.xlsx
+dataset/*.xls
+
+models/*.joblib
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
