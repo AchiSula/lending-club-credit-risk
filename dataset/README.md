@@ -18,7 +18,7 @@ You can download the dataset from Kaggle:
 
 
 
-After downloading, place the CSV file and the feature description file inside this folder before running the notebook.
+After downloading, place the CSV file(s) and the feature description file inside this folder before running the notebook.
 
 
 
