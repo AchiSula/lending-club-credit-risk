@@ -1,4 +1,4 @@
-\# Dataset Directory
+# Dataset Directory
 
 
 
@@ -14,7 +14,7 @@ You can download the dataset from Kaggle:
 
 
 
-\[Lending Club Loan Data (CSV) – Kaggle](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
+[Lending Club Loan Data (CSV) – Kaggle](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
 
 
 
