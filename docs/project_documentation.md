@@ -2,19 +2,7 @@
 
 This project models **PD₀ (Probability of Default at origination)**:
 
-$$
-\mathrm{PD}_0
-=
-\mathbb{P}\!\left(
-\text{loan defaults at any point in the future}
-\;\middle|\;
-\mathcal{I}_{t}
-\right),
-\qquad
-t = \texttt{issue\_d}.
-$$
-
-Here,  $\mathcal{I}_t$  represents the information available at time $t$, with $t = \texttt{issue\_d}$ (loan issuance date).
+PD0 = P(loan defaults at any point in the future | information available at issuance `issue_d`)
 
 That means **every predictor must be information that was available at (or before) loan issuance**.  
 Any feature that reflects repayment behavior, interventions (hardship/payment plans), recoveries, or "current" credit state **after issuance** introduces **temporal leakage** and is excluded from the PD₀ feature set.
