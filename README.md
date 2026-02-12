@@ -32,6 +32,14 @@ This notebook contains the complete end-to-end modeling pipeline.
 
 ---
 
+## 📘 Technical Documentation
+
+The full technical documentation of the PD₀ modeling framework is available in:
+
+docs/project_documentation.md
+
+---
+
 ## ⚙️ Modeling Framework
 
 ### 1. Target Construction
