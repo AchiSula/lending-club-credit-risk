@@ -20,8 +20,6 @@ The dataset and feature descriptions can be downloaded from Kaggle:
 
 [Lending Club Loan Data (CSV) – Kaggle](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
 
-After downloading, place the dataset files inside the `dataset/` folder to reproduce the results of the main Jupyter notebook.
-
 ---
 
 ## 📓 Main Notebook
